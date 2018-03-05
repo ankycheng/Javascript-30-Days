@@ -56,7 +56,6 @@
 4. `change`、`mousemove` events
 5. Difference between `NodeList` and `Array`
   
-#### Reference:
-[Flat Clock on Codepen](https://codepen.io/josephshambrook/pen/FlhcJ?q=flat+clock&limit=all&type=type-pens) : Better CSS positioning
-[Momentjs](https://momentjs.com/)
+#### Reference
+
 
